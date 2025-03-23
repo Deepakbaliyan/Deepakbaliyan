@@ -1,4 +1,4 @@
-![logo](https://github.com/Deepakbaliyan/Deepak-Baliyan/blob/main/Brown%20and%20White%20Simple%20Linkedin%20Article%20Cover%20Image.png)
+![logo][(https://github.com/Deepakbaliyan/Deepak-Baliyan/blob/main/Brown%20and%20White%20Simple%20Linkedin%20Article%20Cover%20Image.png](https://github.com/Deepakbaliyan/Deepakbaliyan/blob/main/DB.png))
 <h1 align="center">Hi 👋, I'm Deepak Baliyan</h1>
 <h3 align="center">A passionate Full Stack Software Developer from India</h3>
 
